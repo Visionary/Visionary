@@ -1,0 +1,6 @@
+[package]
+name = "Visionary"
+version = "0.1.0"
+authors = ["alexl <alex.l.leung@gmail.com>"]
+
+[dependencies]
