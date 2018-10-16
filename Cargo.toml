@@ -2,5 +2,9 @@
 name = "visionary"
 version = "0.0.0"
 authors = ["Alexander Leung <alex.l.leung@gmail.com>"]
+description = "A cross-platform reactive framework for developing interactive visual applications, interfaces, and/or experiences in Rust."
+license = "MIT"
+homepage = "http://visionary.rs"
+repository = "https://github.com/AlexLeung/Visionary"
 
 [dependencies]
