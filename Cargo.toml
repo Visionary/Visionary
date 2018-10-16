@@ -1,6 +1,6 @@
 [package]
-name = "Visionary"
-version = "0.1.0"
-authors = ["alexl <alex.l.leung@gmail.com>"]
+name = "visionary"
+version = "0.0.0"
+authors = ["Alexander Leung <alex.l.leung@gmail.com>"]
 
 [dependencies]
