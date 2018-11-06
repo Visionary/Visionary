@@ -24,7 +24,7 @@
 
 * Rust has an advanced macro system which allows us to easily extend the Rust syntax to make expressing Visionary UI more intuitive and ergonomic.
 
-* At the end of the day, we commit to the goal of a UI Framework which replaces all other UI Frameworks, and that commitment is larger than our commitment to the Rust language.
+* Our goal is to create and maintain a UI framework for the future; one which is always ahead of its time in bringing developers tools for creating visuals which can be run on all major display devices as efficiently as possible. Our commitment to this goal is larger than our commitment to the Rust language.
 
 ### Tooling TODOs:
 
